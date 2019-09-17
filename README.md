@@ -14,6 +14,11 @@ StratosOpenCvWebcamToPygame
 Simple Example how to stream the webcam to pygame display and interact with opencv filterings or processings.
 
 
+StratosOpencvRaspberryWebcam
+----------------------------
+Simple example how to stream the raspberry camera to an opencv window.
+
+
 StratosOpencvRaspberryWebcamToPygame
 ------------------------------------
 Simple example how to stream the raspberry camera to a pygame display and interact with opencv filterings or processings.
